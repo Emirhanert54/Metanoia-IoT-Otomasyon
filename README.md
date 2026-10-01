@@ -17,5 +17,5 @@ Endüstriyel "Pick and Place" (Al ve Bırak) süreçlerini simüle etmek amacıy
 
 ## Detaylı Proje Raporları
 Sistemin elektriksel şemaları, MQTT haberleşme mimarisi (IoT) ve robot kol mekanik tasarım detaylarının yer aldığı detaylı akademik raporları incelemek için:
-👉 [Nesnelerin İnterneti (IoT) Proje Raporu (PDF)](./Dokumanlar/IoT_Proje_Raporu.pdf)
+👉 [Nesnelerin İnterneti (IoT) Proje Rapor (PDF)](./Dokumanlar/IoT_Proje_Raporu.pdf)
 👉 [Robotik Kodlama Proje Raporu (PDF)](./Dokumanlar/Robotik_Sistem_Raporu.pdf)
