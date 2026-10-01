@@ -14,3 +14,8 @@ Endüstriyel "Pick and Place" (Al ve Bırak) süreçlerini simüle etmek amacıy
 * **Sürü Mimarisi:** Takipçi düğüm (konveyör) nesneyi algıladığında otonom olarak Lider düğüme (robot kol) bulut üzerinden görev emri iletir.
 * **Sinyal Filtreleme:** Analog potansiyometrelerden kaynaklanan elektronik parazitlenmeleri (jitter) ve ağ spam'ini önlemek için 5 derecelik yazılımsal ölü bant (deadband) algoritması geliştirilmiştir.
 * **İzole Güç Yönetimi:** Servo motorların yüksek demeraj akımı çekerek işlemciyi kilitlemesini önlemek için "Ortak GND, Ayrık VCC" stratejisi uygulanmıştır.
+
+## Detaylı Proje Raporları
+Sistemin elektriksel şemaları, MQTT haberleşme mimarisi (IoT) ve robot kol mekanik tasarım detaylarının yer aldığı detaylı akademik raporları incelemek için:
+👉 [Nesnelerin İnterneti (IoT) Proje Raporu (PDF)](./Dokumanlar/IoT_Proje_Raporu.pdf)
+👉 [Robotik Kodlama Proje Raporu (PDF)](./Dokumanlar/Robotik_Sistem_Raporu.pdf)
